@@ -10,8 +10,9 @@ python = "^3.9"
 django = ">=3.2,<4.0"
 djangorestframework = "^3.14.0"
 drf-yasg = "^1.21.4"
-django-dotenv = "^1.4.2"
 pytest = "^7.2.0"
+pytest-django = "^4.5.2"
+pytest-dotenv = "^0.5.2"
 
 
 [tool.poetry.group.dev.dependencies]
